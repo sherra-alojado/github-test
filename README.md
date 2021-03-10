@@ -1,2 +1,5 @@
-# github-test
-My first repository on GitHub
+# hello-earth
+
+This is my first repository on GitHub
+
+I 💗 to ✈️🧳, and go to the 🏖️
