@@ -1,4 +1,4 @@
-# hello-earth
+# hello-humans
 
 This is my first repository on GitHub
 
